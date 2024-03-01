@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <Helmet>
         <title>Ziche</title>
-        <link rel="icon" type="image/x-icon" href="/  />
+        <link rel="icon" type="image/x-icon" href="./favicon - Copy.ico"  />
       </Helmet>
       {/* Rest of your application content */}
     </div>
